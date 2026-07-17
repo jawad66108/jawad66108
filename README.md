@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=895&height=44&lines=Undergrade%20CS%20%E2%80%A2%20Software%20Engineering%20%E2%80%A2%20Oracle%20DB%20%E2%80%A2%20DSA;Passionate%20about%20Technology%2C%20Projects%20%26%20Continuous%20Growth" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### >>> About Me
 
 I'm a BSCS student passionate about software engineering and building practical applications. I enjoy solving real-world problems through clean code, reliable databases, and continuous learning.
 
